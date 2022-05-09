@@ -11,4 +11,5 @@ def model3():
     print("addoing code for ML model3")
 
 
+print("2 modek is the best one and to be used")
   
